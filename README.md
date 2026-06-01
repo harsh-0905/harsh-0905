@@ -85,31 +85,49 @@ Analyzes resumes against job descriptions across **12 skill domains**, generates
 
 ---
 
-### 🔄 [CollabCode](https://github.com/harsh-0905) — Real-Time Collaborative Code Editor
+### 🔄 [CollabCode](https://github.com/harsh-0905/DOCKER-AWS) — Real-Time Collaborative Code Editor
 > Node.js · WebSockets · React · Docker · AWS ECS/ECR
 
 Real-time multi-user code editor with live sync. Containerized with Docker and deployed on AWS ECS/ECR.
 
+**`Repo →`** [github.com/harsh-0905/DOCKER-AWS](https://github.com/harsh-0905/DOCKER-AWS)
+
 ---
 
-### 🗃️ VectorDB from Scratch
+### 🗃️ [VectorDB from Scratch](https://github.com/harsh-0905/vectordb-from-scratch) — Custom Vector Database
 > Python · HNSW · KD-Tree · RAG
 
-Custom vector database implementation with HNSW and KD-Tree indexing. Supports RAG pipeline integration without external vector DB dependencies.
+Custom vector database built from scratch with HNSW and KD-Tree indexing. Supports RAG pipeline integration without external vector DB dependencies.
+
+**`Repo →`** [github.com/harsh-0905/vectordb-from-scratch](https://github.com/harsh-0905/vectordb-from-scratch)
 
 ---
 
-### 📝 [Hivon Blog](https://github.com/harsh-0905) — Modern Blogging Platform
+### 📝 [Hivon Blog](https://hivon-blog-harsh.netlify.app/blog) — Modern Blogging Platform
 > Next.js · Supabase · Netlify
 
 Full-featured blog platform with auth, rich text editing, and real-time data — deployed live on Netlify.
 
+**`Live →`** [hivon-blog-harsh.netlify.app](https://hivon-blog-harsh.netlify.app/blog) · **`Repo →`** [github.com/harsh-0905/hivon-blog](https://github.com/harsh-0905/hivon-blog)
+
 ---
 
-### ⚙️ [Primetrade Task API](https://github.com/harsh-0905) — Production REST API
+### ⚙️ [Primetrade Task API](https://primetrade-app.netlify.app) — Production REST API
 > Node.js · Express · Docker · Nginx
 
 Dockerized REST API with Nginx reverse proxy — production-grade architecture for task management.
+
+**`Live →`** [primetrade-app.netlify.app](https://primetrade-app.netlify.app) · **`Repo →`** [github.com/harsh-0905/primetrade-api](https://github.com/harsh-0905/primetrade-api)
+
+---
+
+## 🧩 LeetCode
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/harshyadav0905/)
+
+Actively solving DSA problems in **Java** — focusing on arrays, binary search, dynamic programming, and string algorithms.
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/harshyadav0905?theme=dark&font=Karma&ext=heatmap)
 
 ---
 
