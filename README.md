@@ -12,6 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshyadav95-dev/)
 [![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harsh-0905)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshyad95@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/harshyadav0905/)
 
 📍 Noida, India &nbsp;·&nbsp; 🎓 MCA 2026 — JSS Academy of Technical Education (CGPA: 8.42) &nbsp;·&nbsp; ⚡ Available Immediately
 
@@ -120,14 +121,6 @@ Dockerized REST API with Nginx reverse proxy — production-grade architecture f
 **`Live →`** [primetrade-app.netlify.app](https://primetrade-app.netlify.app) · **`Repo →`** [github.com/harsh-0905/primetrade-api](https://github.com/harsh-0905/primetrade-api)
 
 ---
-
-## 🧩 LeetCode
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/harshyadav0905/)
-
-Actively solving DSA problems in **Java** — focusing on arrays, binary search, dynamic programming, and string algorithms.
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/harshyadav0905?theme=dark&font=Karma&ext=heatmap)
 
 ---
 
