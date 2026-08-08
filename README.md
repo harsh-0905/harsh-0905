@@ -14,7 +14,7 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshyad95@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/harshyadav0905/)
 
-📍 Noida, India &nbsp;·&nbsp; 🎓 MCA 2026 — JSS Academy of Technical Education (CGPA: 8.42) &nbsp;·&nbsp; ⚡ Available Immediately
+📍 Noida, India &nbsp;·&nbsp; 🎓 MCA 2026 — JSS Academy of Technical Education (CGPA: 8.52) &nbsp;·&nbsp; ⚡ Available Immediately
 
 </div>
 
